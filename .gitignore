@@ -1,0 +1,56 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vscode/settings.json
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+zappy_server
+zappy_ai
+zappy_gui
+.init_done
+.repository-config.json
+**/zappy_ref-2-0-2
+.trace
+zappy_ref-2-0-2/**
+**/.trace
+tester
+**/__pycache__
+vgcore*
+*.gcda
+*.gcno
+server_suite
+ai_src/**
+**/.vscode
+lib_suite
+
+gui/assets/frame_sprite/
+tests/ai/ai_src/**
